@@ -1,0 +1,12 @@
+网址：https://docs.github.com/zh/get-started
+https://zhuanlan.zhihu.com/p/547821171
+git status 查看git状态
+
+git分为工作区、暂存区、本地仓库、远程仓库
+平时编辑的就是工作区
+git add把工作区的提交到暂存区 《==》 反义词 git reset 将缓存区的修改移除
+有关于git reset，可以看这个博客
+
+git commit把暂存区提交到本地仓库 
+
+git push把本地仓库提交到远程仓库
