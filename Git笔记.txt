@@ -5,8 +5,19 @@ git status 查看git状态
 git分为工作区、暂存区、本地仓库、远程仓库
 平时编辑的就是工作区
 git add把工作区的提交到暂存区 《==》 反义词 git reset 将缓存区的修改移除
-有关于git reset，可以看这个博客
+有关于git reset，可以看这个博客 https://blog.csdn.net/wh13821662259/article/details/126909225
 
-git commit把暂存区提交到本地仓库 
+git commit把暂存区提交到本地仓库 撤销： https://blog.csdn.net/weixin_42279822/article/details/131590659
 
-git push把本地仓库提交到远程仓库
+git push把本地仓库提交到远程仓库 撤销：https://www.python100.com/html/L75970K3MIER.html
+
+git提交到指定的远程分支git push --set-upstream origin hongzzhang0916
+
+git分支保护https://geek-docs.com/git/git-questions/241_git_git_how_to_protect_the_branch_from_being_removed_by_other_developers.html
+以及https://blog.csdn.net/surfirst/article/details/116011855
+
+git合并个人分支到主分支 https://blog.csdn.net/weixin_39570655/article/details/130884648
+
+git常用命令 https://baijiahao.baidu.com/s?id=1750089046854021842&wfr=spider&for=pc
+
+git diff: https://blog.csdn.net/liuxiao723846/article/details/109689069
